@@ -1,4 +1,4 @@
-return whitelist = {
+return {
     Owner = {4850521657},
     Private = {},
 }
