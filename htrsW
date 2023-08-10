@@ -1,0 +1,4 @@
+local whitelist = {
+    Owner = {4850521657},
+    Private = {},
+}
