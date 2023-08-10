@@ -1,4 +1,4 @@
-local whitelist = {
+return whitelist = {
     Owner = {4850521657},
     Private = {},
 }
